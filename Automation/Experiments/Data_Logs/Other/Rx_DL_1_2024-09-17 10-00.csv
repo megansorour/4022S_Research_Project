@@ -1,0 +1,30 @@
+Rx7, OnRxDone, -4, 13, 33, 0, 0,
+Rx8, OnRxDone, -5, 13, 33, 0, 0,
+Rx9, OnRxDone, -1, 13, 33, 0, 0,
+Rx10, OnRxDone, -3, 13, 33, 0, 0,
+APPLICATION_VERSION: V2
+---------------
+LORA_MODULATION
+BANDWIDTH=125000 HzFREQUENCY BAND=433000000 HzSPREADING FACTOR=7 CODING RATE=1 
+Rx LORA Test
+Start data log: 0D 0A
+Rx1, OnRxDone, -4, 12, 33, 0, 0,
+Rx2, OnRxDone, -3, 13, 33, 0, 0,
+Rx3, OnRxDone, -3, 13, 33, 0, 0,
+Rx4, OnRxDone, -12, 12, 33, 0, 0,
+Rx5, OnRxDone, -17, 12, 33, 0, 0,
+Rx6, OnRxDone, -35, 12, 33, 0, 0,
+Rx7, OnRxDone, -36, 12, 33, 0, 0,
+Rx8, OnRxDone, -35, 13, 33, 0, 0,
+Rx9, OnRxDone, -35, 13, 33, 0, 0,
+Rx10, OnRxDone, -12, 12, 33, 0, 0,
+Rx11, OnRxDone, -12, 13, 33, 0, 0,
+Rx12, OnRxDone, -9, 13, 33, 0, 0,
+Rx13, OnRxDone, -7, 12, 33, 0, 0,
+Rx14, OnRxDone, -5, 13, 33, 0, 0,
+Rx15, OnRxDone, -4, 12, 33, 0, 0,
+Rx16, OnRxDone, -5, 13, 33, 0, 0,
+Rx17, OnRxDone, -8, 12, 33, 0, 0,
+Rx18, OnRxDone, -6, 13, 33, 0, 0,
+Rx19, OnRxDone, -7, 13, 33, 0, 0,
+Rx20, OnRxDone, -7, 13, 33, 0, 0,

@@ -1,0 +1,18 @@
+Rx Timeout. Sending packet 29 again.
+Tx says RxTimeout
+
+New test. SF: 7, CR: 1, Tx Power: 1, Toa: 400 
+Compression completed in: 85 ms
+Size before compression: 16380 bytes, after compression: 9088 bytes
+
+
+New test. SF: 7, CR: 1, Tx Power: 14, Toa: 400 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Tx no. 0 sent
+Tx no. 0 sent
+

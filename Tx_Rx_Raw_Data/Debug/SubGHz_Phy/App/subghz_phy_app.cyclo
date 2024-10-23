@@ -1,0 +1,17 @@
+../SubGHz_Phy/App/subghz_phy_app.c:240:6:SubghzApp_Init	3
+../SubGHz_Phy/App/subghz_phy_app.c:348:6:Tx_Compressed	11
+../SubGHz_Phy/App/subghz_phy_app.c:528:6:Rx_Unpack	9
+../SubGHz_Phy/App/subghz_phy_app.c:629:6:Tx_Compressed_Timestamp	4
+../SubGHz_Phy/App/subghz_phy_app.c:696:13:OnTxDone	1
+../SubGHz_Phy/App/subghz_phy_app.c:711:13:OnRxDone	2
+../SubGHz_Phy/App/subghz_phy_app.c:735:13:OnTxTimeout	1
+../SubGHz_Phy/App/subghz_phy_app.c:745:13:OnRxTimeout	1
+../SubGHz_Phy/App/subghz_phy_app.c:759:13:OnRxError	1
+../SubGHz_Phy/App/subghz_phy_app.c:771:13:Rx_Process	1
+../SubGHz_Phy/App/subghz_phy_app.c:885:6:unpack_data	2
+../SubGHz_Phy/App/subghz_phy_app.c:896:6:process_timestamp	2
+../SubGHz_Phy/App/subghz_phy_app.c:929:6:Rx_Timestamp	2
+../SubGHz_Phy/App/subghz_phy_app.c:971:6:sendBeacon	1
+../SubGHz_Phy/App/subghz_phy_app.c:984:10:get_timeout_value	1
+../SubGHz_Phy/App/subghz_phy_app.c:989:6:check_timeout	1
+../SubGHz_Phy/App/subghz_phy_app.c:997:6:sendACK	1

@@ -1,0 +1,288 @@
+Rx Timeout. Sending packet 1 again.
+Tx says RxTimeout
+
+New test. SF: 7, CR: 1, Tx Power: 1, Toa: 400 
+Compression completed in: 85 ms
+Size before compression: 16380 bytes, after compression: 9088 bytes
+
+
+New test. SF: 7, CR: 1, Tx Power: 14, Toa: 400 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+0s665:IRQ_CRC_ERROR
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+Tx no. 0 sent
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+14s246:IRQ_CRC_ERROR
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 10, Retransmissions: 3
+Total ToA: 4000 ms 
+Beacon sent.
+Test 1 elapsed: 17930 ms 
+
+New test. SF: 8, CR: 1, Tx Power: 14, Toa: 708 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+Rx Timeout. Sending packet 6 again.
+Tx says RxTimeout
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 18, Retransmissions: 11
+Total ToA: 12744 ms 
+Beacon sent.
+Test 2 elapsed: 54175 ms
+
+New test. SF: 10, CR: 1, Tx Power: 14, Toa: 617 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+78s348:IRQ_CRC_ERROR
+ACK no. 6 received. Next packet.
+Tx no. 7 sent
+ACK no. 7 received. Next packet.
+Tx no. 8 sent
+ACK no. 8 received. Next packet.
+Tx no. 9 sent
+81s492:IRQ_CRC_ERROR
+ACK no. 9 received. Next packet.
+Tx no. 10 sent
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 10 again.
+Tx says RxTimeout
+
+New test. SF: 7, CR: 1, Tx Power: 1, Toa: 400 
+Compression completed in: 85 ms
+Size before compression: 16380 bytes, after compression: 9088 bytes
+
+
+New test. SF: 7, CR: 1, Tx Power: 14, Toa: 400 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 7, Retransmissions: 0
+Total ToA: 2800 ms 
+Beacon sent.
+Test 1 elapsed: 5390 ms 
+
+New test. SF: 8, CR: 1, Tx Power: 14, Toa: 708 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+Tx says RxTimeout
+13s034:HDR KO
+Rx Timeout. Sending packet 7 again.
+TxTimeout
+Rx Timeout. Sending packet 7 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 7 again.
+Tx says RxTimeout
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 7, Retransmissions: 0
+Total ToA: 4956 ms 
+Beacon sent.
+Test 2 elapsed: 20347 ms
+
+New test. SF: 10, CR: 1, Tx Power: 14, Toa: 617 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 2 again.
+Tx says RxTimeout

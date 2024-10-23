@@ -1,0 +1,47 @@
+
+New test. SF: 7, CR: 1, Tx Power: 10, Toa: 400 Compression completed in: 84 msSize before compression: 16380 bytes, after compression: 9088 bytes
+New test. SF: 7, CR: 1, Tx Power: 10, Toa: 400 Sending data type 1Total bytes: 1806Tx no. 0 sent
+ACK no. 0 received. Next packet.Tx no. 1 sent
+ACK no. 1 received. Next packet.Tx no. 2 sent
+ACK no. 2 received. Next packet.Tx no. 3 sent
+ACK no. 3 received. Next packet.Tx no. 4 sent
+ACK no. 4 received. Next packet.Tx no. 5 sent
+ACK no. 5 received. Next packet.Tx no. 6 sent
+ACK no. 6 received. Next packet.Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.Total packets transmitted: 7, Retransmissions: 0Total ToA: 2800 ms Beacon sent.Test 8 elapsed: 6514 ms
+New test. SF: 7, CR: 1, Tx Power: 5, Toa: 400 Sending data type 1Total bytes: 1806Tx no. 0 sent
+ACK no. 0 received. Next packet.Tx no. 1 sent
+ACK no. 1 received. Next packet.Tx no. 2 sent
+ACK no. 2 received. Next packet.Tx no. 3 sent
+ACK no. 3 received. Next packet.Tx no. 4 sent
+ACK no. 4 received. Next packet.Tx no. 5 sent
+ACK no. 5 received. Next packet.Tx no. 6 sent
+ACK no. 6 received. Next packet.Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.Total packets transmitted: 7, Retransmissions: 0Total ToA: 2800 ms Beacon sent.Test 9 elapsed: 6513 ms
+New test. SF: 7, CR: 1, Tx Power: 3, Toa: 400 Sending data type 1Total bytes: 1806Tx no. 0 sent
+ACK no. 0 received. Next packet.Tx no. 1 sent
+ACK no. 1 received. Next packet.Tx no. 2 sent
+ACK no. 2 received. Next packet.Tx no. 3 sent
+ACK no. 3 received. Next packet.Tx no. 4 sent
+ACK no. 4 received. Next packet.Tx no. 5 sent
+ACK no. 5 received. Next packet.Tx no. 6 sent
+ACK no. 6 received. Next packet.Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.Total packets transmitted: 7, Retransmissions: 0Total ToA: 2800 ms Beacon sent.Test 10 elapsed: 6513 ms
+New test. SF: 7, CR: 1, Tx Power: 1, Toa: 400 Sending data type 1Total bytes: 1806Tx no. 0 sent
+ACK no. 0 received. Next packet.Tx no. 1 sent
+ACK no. 1 received. Next packet.Tx no. 2 sent
+ACK no. 2 received. Next packet.Tx no. 3 sent
+ACK no. 3 received. Next packet.Tx no. 4 sent
+ACK no. 4 received. Next packet.Tx no. 5 sent
+ACK no. 5 received. Next packet.Tx no. 6 sent
+ACK no. 6 received. Next packet.Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.Total packets transmitted: 7, Retransmissions: 0Total ToA: 2800 ms Beacon sent.Test 11 elapsed: 6513 ms
+New test. SF: 7, CR: 1, Tx Power: 14, Toa: 400 Sending data type 1Total bytes: 1806Tx no. 0 sent
+ACK no. 0 received. Next packet.Tx no. 1 sent
+ACK no. 1 received. Next packet.Tx no. 2 sent
+ACK no. 2 received. Next packet.Tx no. 3 sent
+ACK no. 3 received. Next packet.Tx no. 4 sent
+ACK no. 4 received. Next packet.Tx no. 5 sent
+ACK no. 5 received. Next packet.Tx no. 6 sent
+ACK no. 6 received. Next packet.Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.Total packets transmitted: 7, Retransmissions: 0Total ToA: 2800 ms Beacon sent.Test 12 elapsed: 6529 msFinished transmission of data log 1

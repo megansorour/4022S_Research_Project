@@ -1,0 +1,15 @@
+Experiment with SF: 8, CR: 1, Tx Power: 1, Toa: 708:
+Experiment with SF: 10, CR: 1, Tx Power: 1, Toa: 617:
+Experiment with SF: 7, CR: 1, Tx Power: 1, Toa: 400:
+Experiment with SF: 8, CR: 1, Tx Power: 1, Toa: 708:
+Experiment with SF: 10, CR: 1, Tx Power: 1, Toa: 617:
+Experiment with SF: 12, CR: 1, Tx Power: 1, Toa: 2302:
+Experiment with SF: 7, CR: 2, Tx Power: 1, Toa: 476:
+Experiment with SF: 7, CR: 3, Tx Power: 1, Toa: 552:
+Experiment with SF: 7, CR: 4, Tx Power: 1, Toa: 627:
+Experiment with SF: 7, CR: 1, Tx Power: 3, Toa: 400:
+Experiment with SF: 7, CR: 1, Tx Power: 5, Toa: 400:
+Experiment with SF: 7, CR: 1, Tx Power: 10, Toa: 400:
+Experiment with SF: 7, CR: 1, Tx Power: 14, Toa: 400:
+Experiment with SF: 7, CR: 1, Tx Power: 3, Toa: 400:
+Experiment with SF: 7, CR: 1, Tx Power: 0, Toa: 400:

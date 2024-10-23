@@ -1,0 +1,15 @@
+New test. SF: 8, CR: 1, Tx Power: 1, Toa: 708
+New test. SF: 10, CR: 1, Tx Power: 1, Toa: 617
+New test. SF: 7, CR: 1, Tx Power: 1, Toa: 400
+New test. SF: 8, CR: 1, Tx Power: 1, Toa: 708
+New test. SF: 10, CR: 1, Tx Power: 1, Toa: 617
+New test. SF: 12, CR: 1, Tx Power: 1, Toa: 2302
+New test. SF: 7, CR: 2, Tx Power: 1, Toa: 476
+New test. SF: 7, CR: 3, Tx Power: 1, Toa: 552
+New test. SF: 7, CR: 4, Tx Power: 1, Toa: 627
+New test. SF: 7, CR: 1, Tx Power: 3, Toa: 400
+New test. SF: 7, CR: 1, Tx Power: 5, Toa: 400
+New test. SF: 7, CR: 1, Tx Power: 10, Toa: 400
+New test. SF: 7, CR: 1, Tx Power: 14, Toa: 400
+New test. SF: 7, CR: 1, Tx Power: 3, Toa: 400
+New test. SF: 7, CR: 1, Tx Power: 0, Toa: 400

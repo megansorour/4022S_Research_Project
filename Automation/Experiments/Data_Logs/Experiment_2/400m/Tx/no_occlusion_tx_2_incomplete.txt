@@ -1,0 +1,410 @@
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+TxTimeout
+Rx Timeout. Sending packet 0 again.
+Tx says RxTimeout
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 35, Retransmissions: 28
+Total ToA: 14000 ms 
+Beacon sent.
+Test 1 elapsed: 124493 ms 
+
+New test. SF: 8, CR: 1, Tx Power: 10, Toa: 708 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 7, Retransmissions: 0
+Total ToA: 4956 ms 
+Beacon sent.
+Test 2 elapsed: 10813 ms
+
+New test. SF: 10, CR: 1, Tx Power: 10, Toa: 617 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent
+ACK no. 7 received. Next packet.
+Tx no. 8 sent
+ACK no. 8 received. Next packet.
+Tx no. 9 sent
+ACK no. 9 received. Next packet.
+Tx no. 10 sent
+ACK no. 10 received. Next packet.
+Tx no. 11 sent
+ACK no. 11 received. Next packet.
+Tx no. 12 sent
+ACK no. 12 received. Next packet.
+Tx no. 13 sent
+ACK no. 13 received. Next packet.
+Tx no. 14 sent
+ACK no. 14 received. Next packet.
+Tx no. 15 sent
+ACK no. 15 received. Next packet.
+Tx no. 16 sent
+ACK no. 16 received. Next packet.
+Tx no. 17 sent
+ACK no. 17 received. Next packet.
+Tx no. 18 sent
+ACK no. 18 received. Next packet.
+Tx no. 19 sent
+ACK no. 19 received. Next packet.
+Tx no. 20 sent
+ACK no. 20 received. Next packet.
+Tx no. 21 sent
+ACK no. 21 received. Next packet.
+Tx no. 22 sent
+ACK no. 22 received. Next packet.
+Tx no. 23 sent
+ACK no. 23 received. Next packet.
+Tx no. 24 sent
+ACK no. 24 received. Next packet.
+Tx no. 25 sent
+ACK no. 25 received. Next packet.
+Tx no. 26 sent
+ACK no. 26 received. Next packet.
+Tx no. 27 sent
+ACK no. 27 received. Next packet.
+Tx no. 28 sent
+ACK no. 28 received. Next packet.
+Tx no. 29 sent
+ACK no. 29 received. Next packet.
+Tx no. 30 sent
+ACK no. 30 received. Next packet.
+Tx no. 31 sent
+ACK no. 31 received. Next packet.
+Tx no. 32 sent
+ACK no. 32 received. Next packet.
+Tx no. 33 sent
+ACK no. 33 received. Next packet.
+Tx no. 34 sent
+ACK no. 34 received. Next packet.
+Tx no. 35 sent
+ACK no. 35 received. Next packet.
+Tx no. 36 sent
+ACK no. 36 received. Next packet.
+Tx no. 37 sent
+ACK no. 37 received. Next packet.
+Tx no. 38 sent
+ACK no. 38 received. Next packet.
+Tx no. 39 sent
+ACK no. 39 received. Next packet.
+Tx no. 40 sent. Final packet.
+ACK no. 40 received. Finished transmission.
+Total packets transmitted: 40, Retransmissions: 0
+Total ToA: 24680 ms 
+Beacon sent.
+Test 3 elapsed: 53269 ms
+
+New test. SF: 12, CR: 1, Tx Power: 10, Toa: 2302 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+
+New test. SF: 7, CR: 1, Tx Power: 10, Toa: 400 
+Compression completed in: 84 ms
+Size before compression: 16380 bytes, after compression: 9088 bytes
+
+
+New test. SF: 7, CR: 1, Tx Power: 10, Toa: 400 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+Rx Timeout. Sending packet 1 again.
+Tx says RxTimeout
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+Rx Timeout. Sending packet 3 again.
+Tx says RxTimeout
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+Rx Timeout. Sending packet 5 again.
+Tx says RxTimeout
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 10, Retransmissions: 3
+Total ToA: 4000 ms 
+Beacon sent.
+Test 1 elapsed: 19753 ms 
+
+New test. SF: 8, CR: 1, Tx Power: 10, Toa: 708 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent. Final packet.
+ACK no. 7 received. Finished transmission.
+Total packets transmitted: 7, Retransmissions: 0
+Total ToA: 4956 ms 
+Beacon sent.
+Test 2 elapsed: 10813 ms
+
+New test. SF: 10, CR: 1, Tx Power: 10, Toa: 617 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent
+ACK no. 7 received. Next packet.
+Tx no. 8 sent
+ACK no. 8 received. Next packet.
+Tx no. 9 sent
+ACK no. 9 received. Next packet.
+Tx no. 10 sent
+ACK no. 10 received. Next packet.
+Tx no. 11 sent
+ACK no. 11 received. Next packet.
+Tx no. 12 sent
+ACK no. 12 received. Next packet.
+Tx no. 13 sent
+ACK no. 13 received. Next packet.
+Tx no. 14 sent
+ACK no. 14 received. Next packet.
+Tx no. 15 sent
+ACK no. 15 received. Next packet.
+Tx no. 16 sent
+ACK no. 16 received. Next packet.
+Tx no. 17 sent
+ACK no. 17 received. Next packet.
+Tx no. 18 sent
+ACK no. 18 received. Next packet.
+Tx no. 19 sent
+ACK no. 19 received. Next packet.
+Tx no. 20 sent
+ACK no. 20 received. Next packet.
+Tx no. 21 sent
+ACK no. 21 received. Next packet.
+Tx no. 22 sent
+ACK no. 22 received. Next packet.
+Tx no. 23 sent
+ACK no. 23 received. Next packet.
+Tx no. 24 sent
+ACK no. 24 received. Next packet.
+Tx no. 25 sent
+ACK no. 25 received. Next packet.
+Tx no. 26 sent
+ACK no. 26 received. Next packet.
+Tx no. 27 sent
+ACK no. 27 received. Next packet.
+Tx no. 28 sent
+ACK no. 28 received. Next packet.
+Tx no. 29 sent
+ACK no. 29 received. Next packet.
+Tx no. 30 sent
+ACK no. 30 received. Next packet.
+Tx no. 31 sent
+ACK no. 31 received. Next packet.
+Tx no. 32 sent
+ACK no. 32 received. Next packet.
+Tx no. 33 sent
+ACK no. 33 received. Next packet.
+Tx no. 34 sent
+ACK no. 34 received. Next packet.
+Tx no. 35 sent
+ACK no. 35 received. Next packet.
+Tx no. 36 sent
+ACK no. 36 received. Next packet.
+Tx no. 37 sent
+ACK no. 37 received. Next packet.
+Tx no. 38 sent
+ACK no. 38 received. Next packet.
+Tx no. 39 sent
+ACK no. 39 received. Next packet.
+Tx no. 40 sent. Final packet.
+ACK no. 40 received. Finished transmission.
+Total packets transmitted: 40, Retransmissions: 0
+Total ToA: 24680 ms 
+Beacon sent.
+Test 3 elapsed: 53300 ms
+
+New test. SF: 12, CR: 1, Tx Power: 10, Toa: 2302 
+Sending data type 1
+Total bytes: 1806
+Tx no. 0 sent
+ACK no. 0 received. Next packet.
+Tx no. 1 sent
+ACK no. 1 received. Next packet.
+Tx no. 2 sent
+ACK no. 2 received. Next packet.
+Tx no. 3 sent
+ACK no. 3 received. Next packet.
+Tx no. 4 sent
+ACK no. 4 received. Next packet.
+Tx no. 5 sent
+ACK no. 5 received. Next packet.
+Tx no. 6 sent
+ACK no. 6 received. Next packet.
+Tx no. 7 sent
+ACK no. 7 received. Next packet.
+Tx no. 8 sent
+ACK no. 8 received. Next packet.
+Tx no. 9 sent
+ACK no. 9 received. Next packet.
+Tx no. 10 sent
+ACK no. 10 received. Next packet.
+Tx no. 11 sent
+ACK no. 11 received. Next packet.
+Tx no. 12 sent
+ACK no. 12 received. Next packet.
+Tx no. 13 sent
+ACK no. 13 received. Next packet.
+Tx no. 14 sent
+ACK no. 14 received. Next packet.
+Tx no. 15 sent
+ACK no. 15 received. Next packet.
+Tx no. 16 sent
+ACK no. 16 received. Next packet.
+Tx no. 17 sent
+ACK no. 17 received. Next packet.
+Tx no. 18 sent
+ACK no. 18 received. Next packet.
+Tx no. 19 sent
+ACK no. 19 received. Next packet.
+Tx no. 20 sent
+ACK no. 20 received. Next packet.
+Tx no. 21 sent
+ACK no. 21 received. Next packet.
+Tx no. 22 sent
+ACK no. 22 received. Next packet.
+Tx no. 23 sent
+ACK no. 23 received. Next packet.
+Tx no. 24 sent
+ACK no. 24 received. Next packet.
+Tx no. 25 sent
+ACK no. 25 received. Next packet.
+Tx no. 26 sent
+ACK no. 26 received. Next packet.
+Tx no. 27 sent
+ACK no. 27 received. Next packet.
+Tx no. 28 sent
+ACK no. 28 received. Next packet.
+Tx no. 29 sent
+ACK no. 29 received. Next packet.
+Tx no. 30 sent
+ACK no. 30 received. Next packet.
+Tx no. 31 sent
+ACK no. 31 received. Next packet.
+Tx no. 32 sent
+ACK no. 32 received. Next packet.
+Tx no. 33 sent
+ACK no. 33 received. Next packet.
+Tx no. 34 sent
+ACK no. 34 received. Next packet.
+Tx no. 35 sent
+ACK no. 35 received. Next packet.
+Tx no. 36 sent
+ACK no. 36 received. Next packet.
+Tx no. 37 sent
+ACK no. 37 received. Next packet.
+Tx no. 38 sent
+ACK no. 38 received. Next packet.

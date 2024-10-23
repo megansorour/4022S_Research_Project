@@ -1,0 +1,32 @@
+Rx2, OnRxTimeout, 100
+APPLICATION_VERSION: V2
+---------------
+LORA_MODULATION
+BANDWIDTH=125000 HzFREQUENCY BAND=433000000 HzSPREADING FACTOR=7 CODING RATE=1 
+Rx LORA Test
+Start data log: 0D 0A
+Rx1, OnRxTimeout, 100
+Rx2, OnRxTimeout, 100
+Rx3, OnRxTimeout, 100
+Rx4, OnRxDone, -28, 13, 33, 0, 75
+Rx5, OnRxDone, -2, 13, 33, 0, 60
+Rx6, OnRxDone, -5, 13, 33, 0, 50
+Rx7, OnRxDone, -8, 13, 33, 0, 42
+Rx8, OnRxDone, -8, 13, 33, 0, 37
+Rx9, OnRxDone, -16, 13, 33, 0, 33
+Rx10, OnRxDone, -20, 13, 33, 0, 30
+Rx11, OnRxDone, -17, 13, 33, 0, 27
+Rx12, OnRxDone, -17, 13, 33, 0, 25
+Rx13, OnRxDone, -34, 13, 33, 0, 23
+Rx14, OnRxDone, -38, 13, 33, 0, 21
+38s359:HDR KO
+Rx15, OnRxTimeout, 26
+Rx16, OnRxDone, -38, 13, 33, 0, 25
+Rx17, OnRxDone, -38, 13, 33, 0, 23
+Rx18, OnRxDone, -38, 13, 33, 0, 22
+Rx19, OnRxDone, -26, 13, 33, 0, 21
+Rx20, OnRxDone, -16, 13, 33, 0, 20
+Rx21, OnRxDone, -19, 13, 33, 0, 19
+Rx22, OnRxDone, -4, 13, 33, 0, 18
+Rx23, OnRxDone, -12, 12, 33, 0, 17
+Rx24, OnRxDone, -13, 13, 33, 0, 16

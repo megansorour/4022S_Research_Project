@@ -1,0 +1,15 @@
+Tx1,OnTxDoneTx2,OnTxDoneAPPLICATION_VERSION: V2---------------
+LORA_MODULATION
+CODING RATE=1 
+R=7 00000 HzTx LORA TestStart data log: 0D 0A0A B1 Spreading factor = 7
+OnTxDoneTx1,OnTxDoneTx2,OnTxDoneTx3,OnTxDoneTx4,OnTxDoneTx5,OnTxDoneTx6,OnTxDoneTx7,OnTxDoneTx8,OnTxDoneTx9,OnTxDoneTx10,OnTxDoneTx11,OnTxDoneTx12,OnTxDoneTx13,OnTxDoneTx14,OnTxDoneTx15,OnTxDoneTx16,OnTxDoneTx17,OnTxDoneTx18,OnTxDoneTx19,OnTxDoneTx20,0A B1 Spreading factor = 8
+OnTxDoneTx22,OnTxDoneTx23,OnTxDoneTx24,OnTxDoneTx25,OnTxDoneTx26,OnTxDoneTx27,OnTxDoneTx28,OnTxDoneTx29,OnTxDoneTx30,OnTxDoneTx31,OnTxDoneTx32,OnTxDoneTx33,OnTxDoneTx34,OnTxDoneTx35,OnTxDoneTx36,OnTxDoneTx37,OnTxDoneTx38,OnTxDoneTx39,OnTxDoneTx40,OnTxDoneTx41,0A B1 Spreading factor = 9
+OnTxDoneTx43,OnTxDoneTx44,OnTxDoneTx45,OnTxDoneTx46,OnTxDoneTx47,OnTxDoneTx48,OnTxDoneTx49,OnTxDoneTx50,OnTxDoneTx51,OnTxDoneTx52,OnTxDoneTx53,OnTxDoneTx54,OnTxDoneTx55,OnTxDoneTx56,OnTxDoneTx57,OnTxDoneTx58,OnTxDoneTx59,OnTxDoneTx60,OnTxDoneTx61,OnTxDoneTx62,0A B1 Spreading factor = 10
+OnTxDoneTx64,OnTxDoneTx65,OnTxDoneTx66,OnTxDoneTx67,OnTxDoneTx68,OnTxDoneTx69,OnTxDoneTx70,OnTxDoneTx71,OnTxDoneTx72,OnTxDoneTx73,OnTxDoneTx74,OnTxDoneTx75,OnTxDoneTx76,OnTxDoneTx77,OnTxDoneTx78,OnTxDoneTx79,OnTxDoneTx80,OnTxDoneTx81,OnTxDoneTx82,OnTxDoneTx83,0A B1 Spreading factor = 11
+OnTxDoneTx85,OnTxDoneTx86,OnTxDoneTx87,OnTxDoneTx88,OnTxDoneTx89,OnTxDoneTx90,OnTxDoneTx91,OnTxDoneTx92,OnTxDoneTx93,OnTxDoneTx94,OnTxDoneTx95,OnTxDoneTx96,OnTxDoneTx97,OnTxDoneTx98,OnTxDoneTx99,OnTxDoneTx100,OnTxDoneTx101,OnTxDoneTx102,OnTxDoneTx103,OnTxDoneTx104,0A B1 Spreading factor = 12
+OnTxDoneTx106,OnTxDoneTx107,OnTxDoneTx108,OnTxDoneTx109,OnTxDoneTx110,OnTxDoneTx111,OnTxDoneTx112,OnTxDoneTx113,OnTxDoneTx114,OnTxDoneTx115,OnTxDoneTx116,OnTxDoneTx117,OnTxDoneTx118,OnTxDoneTx119,OnTxDoneTx120,OnTxDoneTx121,OnTxDoneTx122,OnTxDoneTx123,OnTxDoneTx124,OnTxDoneTx125,0A B1 Test no. 1 complete.Starting test 2.
+0A B1 Coding rate = 1
+OnTxDoneTx127,OnTxDoneTx128,OnTxDoneTx129,OnTxDoneTx130,OnTxDoneTx131,OnTxDoneTx132,OnTxDoneTx133,OnTxDoneTx134,OnTxDoneTx135,OnTxDoneTx136,OnTxDoneTx137,OnTxDoneTx138,OnTxDoneTx139,OnTxDoneTx140,OnTxDoneTx141,OnTxDoneTx142,OnTxDoneTx143,OnTxDoneTx144,OnTxDoneTx145,OnTxDoneTx146,0A B1 Coding rate = 2
+OnTxDoneTx148,OnTxDoneTx149,OnTxDoneTx150,OnTxDoneTx151,OnTxDoneTx152,OnTxDoneTx153,OnTxDoneTx154,OnTxDoneTx155,OnTxDoneTx156,OnTxDoneTx157,OnTxDoneTx158,OnTxDoneTx159,OnTxDoneTx160,OnTxDoneTx161,OnTxDoneTx162,OnTxDoneTx163,OnTxDoneTx164,OnTxDoneTx165,OnTxDoneTx166,OnTxDoneTx167,0A B1 Coding rate = 3
+OnTxDoneTx169,OnTxDoneTx170,OnTxDoneTx171,OnTxDoneTx172,OnTxDoneTx173,OnTxDoneTx174,OnTxDoneTx175,OnTxDoneTx176,OnTxDoneTx177,OnTxDoneTx178,OnTxDoneTx179,OnTxDoneTx180,OnTxDoneTx181,OnTxDoneTx182,OnTxDoneTx183,OnTxDoneTx184,OnTxDoneTx185,OnTxDoneTx186,OnTxDoneTx187,OnTxDoneTx188,0A B1 Coding rate = 4
+OnTxDoneTx190,OnTxDoneTx191,OnTxDoneTx192,OnTxDoneTx193,OnTxDoneTx194,OnTxDoneTx195,OnTxDoneTx196,OnTxDoneTx197,OnTxDoneTx198,OnTxDoneTx199,OnTxDoneTx200,OnTxDoneTx201,OnTxDoneTx202,OnTxDoneTx203,OnTxDoneTx204,OnTxDoneTx205,OnTxDoneTx206,OnTxDoneTx207,OnTxDoneTx208,OnTxDone
